@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
+	<folder>train</folder>
 	<filename>237.jpg</filename>
-	<path>C:\Users\vince\Documents\Python Scripts\object_detection_demo\data\images\237.jpg</path>
+	<path>C:\Users\vince\Documents\Python Scripts\object_detection_demo\data\images\train\237.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>323</xmin>
-			<ymin>12</ymin>
-			<xmax>587</xmax>
+			<xmin>340</xmin>
+			<ymin>29</ymin>
+			<xmax>578</xmax>
 			<ymax>186</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>dress</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>130</xmin>
-			<ymin>392</ymin>
-			<xmax>721</xmax>
-			<ymax>600</ymax>
 		</bndbox>
 	</object>
 </annotation>

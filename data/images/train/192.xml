@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
+	<folder>train</folder>
 	<filename>192.jpg</filename>
-	<path>C:\Users\vince\Documents\Python Scripts\object_detection_demo\data\images\192.jpg</path>
+	<path>C:\Users\vince\Documents\Python Scripts\object_detection_demo\data\images\train\192.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>35</xmin>
-			<ymin>249</ymin>
-			<xmax>162</xmax>
+			<xmin>39</xmin>
+			<ymin>266</ymin>
+			<xmax>146</xmax>
 			<ymax>346</ymax>
 		</bndbox>
 	</object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>236</xmin>
-			<ymin>118</ymin>
+			<xmin>252</xmin>
+			<ymin>138</ymin>
 			<xmax>357</xmax>
-			<ymax>223</ymax>
+			<ymax>228</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>373</xmin>
-			<ymin>130</ymin>
-			<xmax>501</xmax>
-			<ymax>251</ymax>
+			<xmin>372</xmin>
+			<ymin>162</ymin>
+			<xmax>489</xmax>
+			<ymax>239</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -54,9 +54,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>545</xmin>
-			<ymin>225</ymin>
-			<xmax>705</xmax>
-			<ymax>356</ymax>
+			<ymin>234</ymin>
+			<xmax>692</xmax>
+			<ymax>345</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,8 +65,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>486</xmin>
-			<ymin>206</ymin>
+			<xmin>484</xmin>
+			<ymin>218</ymin>
 			<xmax>580</xmax>
 			<ymax>327</ymax>
 		</bndbox>
@@ -81,18 +81,6 @@
 			<ymin>46</ymin>
 			<xmax>717</xmax>
 			<ymax>139</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>book</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>421</xmin>
-			<ymin>318</ymin>
-			<xmax>494</xmax>
-			<ymax>401</ymax>
 		</bndbox>
 	</object>
 </annotation>
