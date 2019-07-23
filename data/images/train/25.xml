@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>3.jpg</filename>
-	<path>C:\Users\vince\Documents\Python Scripts\object_detection_demo\data\images\3.jpg</path>
+	<filename>25.jpg</filename>
+	<path>C:\Users\vince\Documents\Python Scripts\object_detection_demo\data\images\25.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>flower</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>362</xmin>
-			<ymin>51</ymin>
-			<xmax>400</xmax>
-			<ymax>82</ymax>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>204</xmax>
+			<ymax>105</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>396</xmin>
-			<ymin>47</ymin>
-			<xmax>453</xmax>
-			<ymax>80</ymax>
+			<xmin>186</xmin>
+			<ymin>3</ymin>
+			<xmax>231</xmax>
+			<ymax>28</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>436</xmin>
-			<ymin>66</ymin>
-			<xmax>464</xmax>
-			<ymax>89</ymax>
+			<xmin>198</xmin>
+			<ymin>22</ymin>
+			<xmax>237</xmax>
+			<ymax>46</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>flower</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>581</xmin>
+			<ymin>7</ymin>
+			<xmax>800</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>flower</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>625</xmin>
+			<ymin>1</ymin>
+			<xmax>671</xmax>
+			<ymax>16</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +77,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>413</xmin>
-			<ymin>80</ymin>
-			<xmax>453</xmax>
-			<ymax>106</ymax>
+			<xmin>733</xmin>
+			<ymin>137</ymin>
+			<xmax>781</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>flower</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>762</xmin>
+			<ymin>151</ymin>
+			<xmax>800</xmax>
+			<ymax>183</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +101,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>373</xmin>
-			<ymin>73</ymin>
-			<xmax>420</xmax>
-			<ymax>110</ymax>
+			<xmin>760</xmin>
+			<ymin>178</ymin>
+			<xmax>796</xmax>
+			<ymax>209</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +113,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>181</xmin>
-			<ymin>456</ymin>
-			<xmax>252</xmax>
-			<ymax>496</ymax>
+			<xmin>731</xmin>
+			<ymin>177</ymin>
+			<xmax>765</xmax>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>flower</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>488</ymin>
+			<xmax>36</xmax>
+			<ymax>527</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +137,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>211</xmin>
-			<ymin>467</ymin>
-			<xmax>287</xmax>
-			<ymax>516</ymax>
+			<xmin>28</xmin>
+			<ymin>498</ymin>
+			<xmax>78</xmax>
+			<ymax>531</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,10 +149,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>249</xmin>
-			<ymin>485</ymin>
-			<xmax>345</xmax>
-			<ymax>534</ymax>
+			<xmin>354</xmin>
+			<ymin>42</ymin>
+			<xmax>378</xmax>
+			<ymax>58</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -113,46 +161,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>335</xmin>
-			<ymin>489</ymin>
-			<xmax>438</xmax>
-			<ymax>546</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>flower</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>424</xmin>
-			<ymin>479</ymin>
-			<xmax>531</xmax>
-			<ymax>543</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>flower</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>498</xmin>
-			<ymin>466</ymin>
-			<xmax>586</xmax>
-			<ymax>519</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>flower</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>545</xmin>
-			<ymin>454</ymin>
-			<xmax>606</xmax>
-			<ymax>506</ymax>
+			<xmin>85</xmin>
+			<ymin>334</ymin>
+			<xmax>129</xmax>
+			<ymax>357</ymax>
 		</bndbox>
 	</object>
 </annotation>
